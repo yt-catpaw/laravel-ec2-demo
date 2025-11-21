@@ -59,6 +59,7 @@
                     </p>
                     <p class="mb-4 text-[#706f6c] dark:text-[#A1A09A]">
                         デプロイ確認用メッセージです。この表示が出ていれば最新のデプロイが反映されています。
+                        変更されたけど？
                     </p>
 
                     <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]">Laravel has an incredibly rich ecosystem. <br>We suggest starting with the following.</p>
